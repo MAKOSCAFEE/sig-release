@@ -54,10 +54,9 @@ In addition to the time requirements above, a Docs Lead must:
 
 Docs Lead Shadows are people who are preparing to be a Docs Lead in the future. In addition to the time requirements above, shadows must: 
 
-- Have signed the [contributor CLA](https://github.com/kubernetes/community/blob/master/CLA.md) for Kubernetes.
-- Be a Kubernetes org member. The process to become one is in the [Kubernetes community membership ladder](https://github.com/kubernetes/community/blob/master/community-membership.md#member)
+- Have signed/will agree to sign the [contributor CLA](https://github.com/kubernetes/community/blob/master/CLA.md) for Kubernetes.
 - General knowledge of our SIG-Docs [areas of responsibility](https://github.com/kubernetes/community/tree/master/sig-docs#subprojects).
-- Experience with the general process involved with [contributing](https://kubernetes.io/docs/contribute/start/) to Kubernetes website.
+- Knowledgable with the general process involved with [contributing](https://kubernetes.io/docs/contribute/start/) to Kubernetes website.
 
 ## Release Timeline
 
